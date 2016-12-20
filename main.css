@@ -58,6 +58,10 @@ footer {
     font-size: .8em;
 }
 
+footer nav ul {
+    font-size: 1em;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
