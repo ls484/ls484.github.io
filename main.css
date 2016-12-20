@@ -9,7 +9,7 @@ nav ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    border-bottom: 2px solid #d5d5d5;
+    border-bottom: 3px solid #d5d5d5;
     color: #000078;
 }
 
@@ -17,6 +17,7 @@ nav ul li {
     display: inline;
     margin-right: 20px;
     padding-bottom: 10px;
+    color: #000078;
 }
 
 a {
@@ -30,7 +31,7 @@ a:hover {
 }
 h1 {
     font-size: 5em;
-    font-family:"Brush Script MT";
+    font-family:'Century Gothic';
     color: #000078;
 }
 
@@ -51,7 +52,7 @@ p {
     font-family:"Century Gothic"
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 3px solid #d5d5d5;
     font-size: .8em;
 }
 
