@@ -1,14 +1,16 @@
 body {
     margin: 60px auto;
     width: 90%;
-    background-color: #F0F0F5;
+    background-color: #B3B3D7;
 }
+
 nav ul {
     font-family:'Century Gothic', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
     border-bottom: 2px solid #d5d5d5;
+    color: #000078;
 }
 
 nav ul li {
