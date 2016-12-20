@@ -56,10 +56,7 @@ p {
 footer {
     border-top: 3px solid #d5d5d5;
     font-size: .8em;
-}
-
-footer nav ul {
-    font-size: 1em;
+    padding-top: 20px;
 }
 
 ul.posts { 
